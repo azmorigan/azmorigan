@@ -14,11 +14,13 @@ telegram: **@azmorigan**
 
 ### Мой стек :rocket::
 
-<img style="display: inline-block" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/html5.svg" />
-<img style="display: inline-block" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/css3.svg" />
-<img style="display: inline-block" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/javascript.svg" />
-<img style="display: inline-block" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/sass.svg" />
-<img style="display: inline-block" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/react.svg" />
-<img style="display: inline-block" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/webstorm.svg" />
-<img style="display: inline-block" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/visualstudiocode.svg" />
-<img style="display: inline-block" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/git.svg" />
+<img height="32" width="32" src="./html5.svg" />
+<img height="32" width="32" src="./css3.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/html5.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/css3.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/javascript.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/sass.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/react.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/webstorm.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/visualstudiocode.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/git.svg" />
