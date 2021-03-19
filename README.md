@@ -14,8 +14,6 @@ telegram: **@azmorigan**
 
 ### Мой стек :rocket::
 
-<img height="32" width="32" src="./html5.svg" />
-<img height="32" width="32" src="./css3.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/html5.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/css3.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/javascript.svg" />
