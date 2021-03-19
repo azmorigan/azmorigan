@@ -23,3 +23,7 @@ telegram: **@azmorigan**
 <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/webstorm.svg" />
 <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/visualstudiocode.svg" />
 <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/git.svg" />
+<br />
+
+### Статистика:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azmorigan&layout=compact)](https://github.com/azmorigan)
