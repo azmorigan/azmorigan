@@ -14,15 +14,15 @@ telegram: **@azmorigan**
 
 ### Мой стек :rocket::
 
-<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/html5.svg" />
-<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/css3.svg" />
-<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/javascript.svg" />
-<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/sass.svg" />
-<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/react.svg" />
-<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/webstorm.svg" />
-<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/visualstudiocode.svg" />
-<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/git.svg" />
+<img align="left" height="32" width="32" src="./img/html5.svg" />
+<img align="left" height="32" width="32" src="./img/css3.svg" />
+<img align="left" height="32" width="32" src="./img/js.svg" />
+<img align="left" height="32" width="32" src="./img/sass.svg" />
+<img align="left" height="32" width="32" src="./img/react.svg" />
+<img align="left" height="32" width="32" src="./img/express.png" />
+<img align="left" height="32" width="32" src="./img/git.svg" />
+<img align="left" height="32" width="32" src="./img/vscode.svg" />
+<br />
 
 ### Статистика:
-
-fefe
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azmorigan&layout=compact)](https://github.com/azmorigan)
