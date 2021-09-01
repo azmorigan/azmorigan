@@ -13,8 +13,8 @@
 <img align="left" height="32" width="32" src="./img/vscode.svg" />
 <br />
 
-### Статистика:
+### Statistics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azmorigan&layout=compact)](https://github.com/azmorigan)
 
-### Контакты:
+### Contacts:
 telegram: **@azmorigan**
